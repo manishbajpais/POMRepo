@@ -8,5 +8,8 @@ package com.crm.qa.pages;
  *
  */
 public class SignUpPage {
+	public void startPageInit() {
+		
+	}
 
 }
